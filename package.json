@@ -1,7 +1,7 @@
 {
   "name": "MediaManagerAppSupport",
   "description": "Media Manager APP Support, foundational layer which provides the essential elements for the APP to run.",
-  "version": "0.0.22",
+  "version": "0.1.0",
   "author": "Marek J. Ryniejski <marek@jetsonsys.com>",
   "bin": {
     "media_manager_app_server": "media_manager_app_server.js",
@@ -16,6 +16,8 @@
     "underscore"   : "~1.4.2",
     "q"          : "~0.9",
     "websocket" : "https://github.com/marekjulian/WebSocket-Node/tarball/master",
-    "webworker" : "https://github.com/marekjulian/node-webworker/tarball/master"
+    "webworker" : "https://github.com/marekjulian/node-webworker/tarball/master",
+    "MediaManagerStorage" : "https://github.com/jetsonsystems/MediaManagerStorage/tarball/master#v0.1.0"
+    "MediaManagerApi" : "https://github.com/jetsonsystems/MediaManagerApi/tarball/master#v0.1.0"
   }
 }
