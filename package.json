@@ -17,7 +17,7 @@
     "q"          : "~0.9",
     "websocket" : "https://github.com/marekjulian/WebSocket-Node/tarball/master",
     "webworker" : "https://github.com/marekjulian/node-webworker/tarball/master",
-    "MediaManagerStorage" : "https://github.com/jetsonsystems/MediaManagerStorage/tarball/master#v0.1.0"
+    "MediaManagerStorage" : "https://github.com/jetsonsystems/MediaManagerStorage/tarball/master#v0.1.0",
     "MediaManagerApi" : "https://github.com/jetsonsystems/MediaManagerApi/tarball/master#v0.1.0"
   }
 }
